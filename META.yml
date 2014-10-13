@@ -16,7 +16,7 @@ name: Sub-Way
 provides:
   Sub::Way:
     file: lib/Sub/Way.pm
-    version: 0.01
+    version: 0.02
 requires:
   Exporter: 0
   parent: 0
@@ -25,4 +25,4 @@ resources:
   bugtracker: http://github.com/bayashi/Sub-Way/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/bayashi/Sub-Way
-version: 0.01
+version: 0.02
